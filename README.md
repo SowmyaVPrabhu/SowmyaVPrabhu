@@ -1,16 +1,43 @@
-## Hi there 👋
+# Hey there 👋
 
-<!--
-**SowmyaVPrabhu/SowmyaVPrabhu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm **Sowmya Prabhu**, an aspiring **Java Backend Developer** from India 🇮🇳.
 
-Here are some ideas to get you started:
+I'm passionate about building backend applications that solve real-world problems using **Java** and **Spring Boot**. I enjoy learning new technologies, writing clean code, and continuously improving my development skills.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Right now, I'm focused on building practical projects, strengthening my backend fundamentals, and preparing for software engineering roles.
+
+---
+
+## 💻 Tools & Tech
+
+- ☕ Java
+- 🌱 Spring Boot
+- 🔗 REST APIs
+- 🗄️ MySQL & PostgreSQL
+- 🛠️ Git & GitHub
+- 📦 Maven
+- 🚀 IntelliJ IDEA
+- 📬 Postman
+- 🧪 Selenium | JUnit | TestNG
+
+---
+
+## 🚀 Currently Working On
+
+- 🌱 Learning Spring Boot in depth
+- 📚 Improving Data Structures & Algorithms
+- 🔐 Exploring Spring Security & JWT
+- ☁️ Learning Docker and Microservices
+
+---
+
+## 🌟 A Bit About Me
+
+- 💡 I enjoy solving real-world problems through code.
+- 📖 Always learning something new in backend development.
+- 🎵 Music keeps me productive while coding.
+- 🎬 I love movies and storytelling.
+- 🌱 I believe consistency beats perfection.
+- 🎸 I enjoy playing ukulele.
+
+
