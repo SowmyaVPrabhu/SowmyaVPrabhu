@@ -13,7 +13,7 @@ Right now, I'm focused on building practical projects, strengthening my backend 
 - ☕ Java
 - 🌱 Spring Boot
 - 🔗 REST APIs
-- 🗄️ MySQL & PostgreSQL
+- 🗄️ MySQL 
 - 🛠️ Git & GitHub
 - 📦 Maven
 - 🚀 IntelliJ IDEA
