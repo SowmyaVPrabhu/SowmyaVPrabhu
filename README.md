@@ -18,7 +18,7 @@ Right now, I'm focused on building practical projects, strengthening my backend 
 - 📦 Maven
 - 🚀 IntelliJ IDEA
 - 📬 Postman
-- 🧪 Selenium | JUnit | TestNG
+- 🧪 Selenium | JUnit | TestNG | Cucumber
 
 ---
 
